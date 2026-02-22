@@ -1,4 +1,4 @@
-.PHONY: cluster-up cluster-down start stop get logs status test-heal fix_wsl_port_forward
+.PHONY: cluster-up cluster-down start stop get logs status test-heal
 
 CLUSTER_NAME := desktop
 APP_LABEL := app=webserver
